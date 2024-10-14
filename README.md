@@ -1,22 +1,22 @@
-# ** Lasso Regression ADMM **
+#  Lasso Regression ADMM 
 ## Overview
 This repository includes an examination of the Alternating Direction Method of Multipliers (ADMM) algorithm as well as a Lasso Regression implementation. A distributed variant of ADMM is one of the optimization strategies that are investigated in this work. The objective is to present a thorough explanation of the Lasso Regression model and evaluate its performance in different situations. The project comprises experiments, results, and implementations on real-world datasets.
 
 ## Project Composition
 This project is organized into the following sections:
 
-- *** Lasso: ***
+- Lasso:
 
     - Jupyter Notebooks implementing Lasso Regression may be found in the lasso folder.
 
     - Examine the code and proceed with the Lasso Regression as  directed in the notebooks.
 
-- *** Data: ***
+- Data: 
     - Real Dataset:
         - This contains the Dstaset that has been used in this project
         - The original dataset can be used [here](https://archive.ics.uci.edu/dataset/165/concrete+compressive+strength).
 
-- *** Image: ***
+- Image:
     - The images used in this project are stored in the images folder.
     - Basically it contains all the visualization and plottings. 
 
@@ -26,13 +26,13 @@ This section contains the specifics of the three different Lasso Regression vers
 
 ### Lasso Regressions Versions
 
-- *** Gradient Descent (GD) ***
+- Gradient Descent (GD)
 A traditional method for Lasso Regression is the GD model. In order to investigate their effects on convergence, execution times, iteration counts, and performance indicators, it was tested with different step sizes and L1 penalties.
 
-- *** Alternating Direction Method of Multipliers (ADMM) ***
+- Alternating Direction Method of Multipliers (ADMM) 
 The Lasso problem can be effectively solved with the help of the optimization approach ADMM. It was put into practice with various parameter combinations to see how they affected performance metrics, execution times, iteration counts, and convergence.
 
-- *** Disributed ADMM ***
+- Disributed ADMM 
 The distributed version of ADMM involves parallelizing the optimization process among multiple agents. This model was tested with varying numbers of agents to assess its performance in a distributed setting.
 
 ## Prerequisites
