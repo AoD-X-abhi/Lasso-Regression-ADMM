@@ -36,12 +36,12 @@ The Lasso problem can be effectively solved with the help of the optimization ap
 The distributed version of ADMM involves parallelizing the optimization process among multiple agents. This model was tested with varying numbers of agents to assess its performance in a distributed setting.
 
 ## Prerequisites
-
-- ![Python Logo](https://www.python.org/static/community_logos/python-logo.png)
-- ![NumPy Logo](https://numpy.org/images/logo.svg)
-- ![Pandas Logo](https://pandas.pydata.org/static/img/pandas_white.svg)
-- ![Matplotlib Logo](https://matplotlib.org/_static/images/logo2.svg)
-- ![Seaborn Logo](https://seaborn.pydata.org/_static/logo-wide-lightbg.svg)
-- ![Scikit-learn Logo](https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png)
+**Ensure you have the following installed:**
+- Python 3.x ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- Virtual Environment (optional but recommended)
+- Pandas ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+- Matplotlib ![Matplotlib](https://img.shields.io/badge/Matplotlib-003B57?style=for-the-badge&logo=matplotlib&logoColor=white)
+- NumPy ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+- Git ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)png)
 
 
