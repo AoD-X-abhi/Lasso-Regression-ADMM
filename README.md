@@ -14,6 +14,9 @@ LASSO (Least Absolute Shrinkage and Selection Operator) regression is a linear r
 | **Gradient Descent** | Proximal gradient for sparsity      | Simple to implement.                  | Slow for large datasets.          |
 | **Distributed ADMM**| Parallelize across machines         | Ideal for distributed systems.        | Requires network communication.   |
 
+- Use ADMM for standard LASSO regression in large or dense datasets.
+- Use Gradient Descent for simplicity and small datasets.
+- Use Distributed ADMM for massive datasets in distributed systems.
 
 ## Project Composition
 This project is organized into the following sections:
