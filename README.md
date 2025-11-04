@@ -1,4 +1,5 @@
-#  Lasso Regression ADMM 
+#  Lasso Regression ADMM & Distributed ADMM
+
 ## Overview
 This repository includes an examination of the Alternating Direction Method of Multipliers (ADMM) algorithm as well as a Lasso Regression implementation. A distributed variant of ADMM is one of the optimization strategies that are investigated in this work. The objective is to present a thorough explanation of the Lasso Regression model and evaluate its performance in different situations. The project comprises experiments, results, and implementations on real-world datasets.
 
