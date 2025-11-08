@@ -1,3 +1,13 @@
+<div align="center">
+
+[![Python](https://img.shields.io/badge/Python-3.10+-blue.svg?logo=python)](https://www.python.org/)
+[![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Scikit--Learn-orange.svg?logo=scikit-learn)](https://scikit-learn.org/)
+[![Jupyter Notebook](https://img.shields.io/badge/Environment-Jupyter%20Notebook-red.svg?logo=jupyter)]()
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Status](https://img.shields.io/badge/Status-Completed-success.svg)]()
+[![Made with ❤️](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red.svg)]()
+</div>
+
 #  Lasso Regression ADMM & Distributed ADMM
 
 ## Overview
